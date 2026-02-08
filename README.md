@@ -1,7 +1,7 @@
 # Nexyra v2 Periphery
 
 This repository contains the periphery smart contracts for the Nexyra V2 Protocol.
-For the lower level core contracts, see the [nexyra-v2-core](https://github.com/nexyra/v2-core)
+For the lower level core contracts, see the [nexyra-v2-core](https://github.com/nexyra-app/v2-core)
 repository.
 
 
